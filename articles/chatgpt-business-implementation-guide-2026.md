@@ -1,6 +1,6 @@
 # ChatGPT for Business: A Professional Implementation Guide (2026)
 
-![ChatGPT Business Implementation Guide](../images/chatgpt-business-guide.png)
+![ChatGPT Business Implementation Guide](../chatgpt-business-guide.png)
 
 **Author:** Muhammad Kashif Khatri  
 **Published:** January 8, 2026  
@@ -418,4 +418,3 @@ This implementation framework is based on:
 ---
 
 *Questions or want to discuss implementation for your business? Connect on [LinkedIn](https://www.linkedin.com/in/kashif-khatri/) or visit [USTOAI.com/contact](https://ustoai.com/contact/)*
-```
