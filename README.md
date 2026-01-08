@@ -73,6 +73,7 @@ Professional SEO Specialist with **6+ years of experience** serving **500+ globa
 - 🌍 **Website:** [USTOAI.com](https://ustoai.com)
 - 💼 **Portfolio:** [SEO26Master.com](https://seo26master.com)
 - 💬 **LinkedIn:** [Muhammad Kashif Khatri](https://www.linkedin.com/in/kashif-khatri/)
+- ✍️ **Medium:** [@big-eye](https://medium.com/@big-eye) | Editor at Illumination (10M+ readers)
 - 📧 **Email:** Contact via [USTOAI.com](https://ustoai.com/contact/)
 
 ---
